@@ -1,12 +1,7 @@
-function App() {
+import AppointmentsPage from "./pages/AppointmentsPage";
 
-  return (
-    <>
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
-    </>
-  )
+function App() {
+  return <AppointmentsPage />;
 }
 
-export default App
+export default App;

@@ -1,0 +1,13 @@
+{
+    "prettier.endOfLine": "auto",
+    "editor.codeActionsOnSave": [
+        "source.organizeImports",
+        "source.fixAll.prettier",
+        "source.fixAll.eslint"
+    ],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true ,
+    "editor.fontFamily": "Fira Code Retina",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13
+}
