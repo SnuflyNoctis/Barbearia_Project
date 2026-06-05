@@ -17,6 +17,12 @@
 
 <img width="1909" height="907" alt="image" src="https://github.com/user-attachments/assets/daaf2ac6-5e29-4635-ba08-914c2b2b7ffc" />
 
+<img width="1906" height="898" alt="image" src="https://github.com/user-attachments/assets/3455cfe1-88b0-4016-9829-68d82016dc49" />
+
+<img width="1904" height="908" alt="image" src="https://github.com/user-attachments/assets/b6e9d7f9-0ce6-470f-b90e-fa50bc2ca851" />
+
+
+
 
 <br>
 
@@ -58,7 +64,7 @@ Para rodar este projeto na sua máquina, você precisará ter o [Node.js](https:
 
 ```bash
 # Clone este repositório
-$ git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+$ git clone https://github.com/SnuflyNoctis/Barbearia_Project.git
 
 # Acesse a pasta do projeto no terminal
 $ cd NOME_DO_REPOSITORIO
